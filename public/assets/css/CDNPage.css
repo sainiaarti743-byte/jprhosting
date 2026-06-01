@@ -1,0 +1,55 @@
+/* Color Palette */
+:root {
+  --sify-lime: #c8e000;
+  --dark-bg: #050b1d;
+}
+
+.text-lime { color: var(--sify-lime); }
+
+/* Section 1 Dots */
+.dot-pattern {
+  width: 100px;
+  height: 60px;
+  background-image: radial-gradient(#ccc 2px, transparent 2px);
+  background-size: 15px 15px;
+}
+
+/* Section 2 Styling */
+.border-lime {
+  border: 4px solid var(--sify-lime);
+}
+
+.border-end-dashed {
+  border-right: 1px dashed #ccc;
+}
+
+.read-more {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+/* Section 3 Styling - Hero Background Image */
+.why-sify-section {
+  background: linear-gradient(rgba(5, 11, 29, 0.9), rgba(5, 11, 29, 0.9)), 
+              url('your-background-path.jpg'); /* Use the wavy light streaks image here */
+  background-size: cover;
+}
+
+.glass-card {
+  background: rgba(0, 0, 0, 0.6);
+  border-left: 2px solid var(--sify-lime);
+}
+
+/* Section 4 - FAQ */
+.bg-dark-grey {
+  background-color: #4a4a4a !important;
+}
+
+.custom-accordion .accordion-button:not(.collapsed) {
+  box-shadow: none;
+}
+
+.custom-accordion .accordion-button::after {
+  display: none; /* Removing default icons to use +/- text as in screenshot */
+}

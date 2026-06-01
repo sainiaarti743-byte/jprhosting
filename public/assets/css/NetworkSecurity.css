@@ -1,0 +1,34 @@
+/* Custom Utility Colors */
+.text-lime { color: #ccff00; }
+.bg-lime { background-color: #ccff00 !important; }
+.border-lime { border-color: #ccff00 !important; }
+
+/* Hero Section (Screenshot 3.52.47) */
+.hero-network {
+  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('server-tech-bg.jpg'); 
+  background-size: cover;
+  height: 450px;
+}
+
+/* Service Banner Frame (Screenshot 3.52.59) */
+.border-lime-top-bottom {
+  border-top: 10px solid #ccff00 !important;
+  border-bottom: 10px solid #ccff00 !important;
+}
+
+.border-end-dashed {
+  border-right: 1px dashed #ced4da;
+}
+
+/* Why Choose Section (Screenshot 3.53.05) */
+.why-sify-dark {
+  background-color: #300038; /* Dark maroon/purple tone */
+}
+
+/* Dot grid pattern */
+.dot-grid-pattern {
+  width: 150px;
+  height: 60px;
+  background-image: radial-gradient(#ced4da 2px, transparent 2px);
+  background-size: 15px 15px;
+}
