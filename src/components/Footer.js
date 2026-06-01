@@ -45,7 +45,7 @@ const Footer = () => {
               />
             </h4>
 
-            <p
+            {/* <p
               style={{
                 fontSize: 'clamp(18px,2vw,24px)',
                 fontWeight: '500',
@@ -54,9 +54,9 @@ const Footer = () => {
               }}
             >
               NASDAQ-listed since year 1999
-            </p>
+            </p> */}
 
-            <p
+            {/* <p
               style={{
                 fontSize: 'clamp(18px,2vw,24px)',
                 fontWeight: '500',
@@ -64,7 +64,7 @@ const Footer = () => {
               }}
             >
               Fortune India 500 company
-            </p>
+            </p> */}
           </div>
 
           {/* EXPLORE */}
