@@ -11,7 +11,7 @@ import CustomerStories from "../../page/CustomerStories";
 import GartnerInsights from "../../page/GartnerInsights";
 import TestimonialsSlider from "./TestimonialsSlider";
 import FAQSection from "./FAQSection";
-import { Helmet } from 'react-helmet-async';
+
 import SEO from "../SEO";
 
 const Cloud = () => {

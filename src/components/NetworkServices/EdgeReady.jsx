@@ -4,7 +4,7 @@ import SEO from '../SEO';
 
 const EdgeReady = () => {
   const limeColor = "#adff2f";
-  const darkPurple = "#6f3586";
+  
 
   return (
     <>

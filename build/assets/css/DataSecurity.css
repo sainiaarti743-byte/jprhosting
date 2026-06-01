@@ -1,0 +1,36 @@
+/* Custom Colors */
+.text-lime { color: #ccff00; }
+.border-lime { border-color: #ccff00 !important; }
+
+/* Hero Section Background */
+.hero-data {
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('server-bg.jpg'); /* Match Screenshot 3.52.19 */
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+}
+
+/* Key Services Box Styling (Screenshot 3.52.31) */
+.service-banner-box {
+  background-color: #ffffff;
+  border-top: 8px solid #ccff00;
+  border-bottom: 8px solid #ccff00;
+}
+
+/* Why Choose Section (Screenshot 3.52.37) */
+.why-choose-dark {
+  background-color: #2b0035; /* Dark purple/maroon tone */
+}
+
+/* Dot pattern placeholder */
+.dot-grid {
+  width: 120px;
+  height: 60px;
+  background-image: radial-gradient(#adb5bd 2px, transparent 2px);
+  background-size: 15px 15px;
+}
+
+/* Custom border height for vertical separators */
+.border-end {
+  border-right: 1px dashed #dee2e6 !important;
+}

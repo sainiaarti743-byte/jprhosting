@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap ka path batayein
+Sitemap: https://jprhosting.in/sitemap.xml

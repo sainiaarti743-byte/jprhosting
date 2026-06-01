@@ -1,0 +1,249 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1734.969" height="1514.159" viewBox="0 0 1734.969 1514.159">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3aceca"/>
+      <stop offset="1" stop-color="#097189"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.009" stop-color="#fc9c10"/>
+      <stop offset="0.999" stop-color="#ff5d15"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ed1b5c"/>
+      <stop offset="1" stop-color="#b20644"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.243" y1="-0.092" x2="0.773" y2="0.809" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#177fc6"/>
+      <stop offset="1" stop-color="#09488e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="-1.067" y1="0.963" x2="-0.458" y2="1.571" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Group_30699" data-name="Group 30699" transform="translate(-93 -4016.38)">
+    <rect id="Rectangle_9348" data-name="Rectangle 9348" width="230" height="867" transform="translate(184 4404.539)" opacity="0.6" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_9349" data-name="Rectangle 9349" width="230" height="867" transform="translate(625 4404.539)" opacity="0.64" fill="url(#linear-gradient-2)"/>
+    <rect id="Rectangle_9350" data-name="Rectangle 9350" width="230" height="867" transform="translate(1066 4404.539)" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.48" fill="url(#linear-gradient-3)"/>
+    <rect id="Rectangle_9351" data-name="Rectangle 9351" width="230" height="867" transform="translate(1507 4404.539)" opacity="0.44" fill="url(#linear-gradient-4)"/>
+    <path id="Path_14269" data-name="Path 14269" d="M862.688-50.159,1733,159.642H0Z" transform="translate(94 4066.539)" fill="#fe6514"/>
+    <rect id="Rectangle_9300" data-name="Rectangle 9300" width="1551" height="83" transform="translate(185 5271.539)" fill="#0c569c"/>
+    <rect id="Rectangle_9299" data-name="Rectangle 9299" width="1551" height="83" transform="translate(185 4327.539)" fill="#0e7a90"/>
+    <rect id="Rectangle_9352" data-name="Rectangle 9352" width="1653" height="84" transform="translate(134 4234.539)" fill="#91bbda"/>
+    <rect id="Rectangle_9302" data-name="Rectangle 9302" width="1733" height="83" transform="translate(94 5447.539)" fill="#0e7a90"/>
+    <rect id="Rectangle_9301" data-name="Rectangle 9301" width="1653" height="83" transform="translate(134 5359.539)" fill="#91bbda" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+    <text id="SRE" transform="translate(961 4127.539)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="55" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-49.924" y="0">SRE</tspan></text>
+    <text id="Ensure_Digital_eco-system_is_highly_available_and_performing_to_deliver_the_best_customer_experience" data-name="Ensure Digital eco-system is highly available
+and performing to deliver the best customer experience" transform="translate(960 4175.539)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="28" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-280.232" y="0">Ensure Digital eco-system is highly available</tspan><tspan x="-349.33" y="32">and performing to deliver the best customer experience</tspan></text>
+    <text id="Telemetry_Observability" data-name="Telemetry &amp; Observability" transform="translate(960 5323.539)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="28" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-162.531" y="0">Telemetry &amp; Observability</tspan></text>
+    <text id="Business_Predictability_Automated_solutions_for_operational_efficiency" data-name="Business Predictability &amp; Automated solutions for operational efficiency" transform="translate(960 4379.539)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="28" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-452.594" y="0">Business Predictability &amp; Automated solutions for operational efficiency</tspan></text>
+    <text id="Self_Service_Self_Healing" data-name="Self Service &amp; Self Healing" transform="translate(960 5499.539)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="28" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-168.219" y="0">Self Service &amp; Self Healing</tspan></text>
+    <text id="Improved_Communication_Collaboration" data-name="Improved Communication &amp; Collaboration" transform="translate(960 4287.539)" fill="#1d252d" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="28" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-262.965" y="0">Improved Communication &amp; Collaboration</tspan></text>
+    <text id="Automated_Impact_Assessment_Chaos_Engineering" data-name="Automated Impact Assessment &amp; Chaos Engineering" transform="translate(960 5411.539)" fill="#1d252d" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="28" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-332.37" y="0">Automated Impact Assessment &amp; Chaos Engineering</tspan></text>
+    <g id="Group_30634" data-name="Group 30634" transform="translate(-24 506.041)">
+      <g id="Group_30618" data-name="Group 30618" transform="translate(91.721 4040.709)">
+        <g id="Group_30613" data-name="Group 30613" transform="translate(35.551 601.47)">
+          <g id="Group_30612" data-name="Group 30612" transform="translate(24.935 18.737)">
+            <g id="Group_30611" data-name="Group 30611">
+              <g id="Group_30610" data-name="Group 30610">
+                <path id="Path_14218" data-name="Path 14218" d="M66.555,383.625V433.1c0,14.642,11.341,27.883,28.85,33.687l128.5,42.583a61.139,61.139,0,0,0,38.615-.25L384,466.977c17.114-5.937,28.112-19.018,28.112-33.438V383.625c0-15-15.837-27.159-35.373-27.159H101.928C82.392,356.466,66.555,368.625,66.555,383.625Z" transform="translate(-66.555 -452.746)" fill="url(#linear-gradient)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_30617" data-name="Group 30617" transform="translate(0 0)">
+          <g id="Group_30616" data-name="Group 30616" transform="translate(26.28 0)">
+            <g id="Group_30615" data-name="Group 30615">
+              <g id="Group_30614" data-name="Group 30614">
+                <path id="Path_14219" data-name="Path 14219" d="M435.169,532.732l-145.528,43.78a83.949,83.949,0,0,1-46.263.259L89.438,532.533c-20.977-6.027-34.562-19.783-34.562-34.995V-7.648c0-30.067,47.215-49.79,87.878-36.709L433.872,49.3c21.384,6.88,34.975,21.3,34.975,37.113V498C468.846,512.976,455.669,526.564,435.169,532.732Z" transform="translate(-54.876 48.469)" fill="#fff" stroke="#128295" stroke-width="2"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_30628" data-name="Group 30628" transform="translate(530.72 4040.709)">
+        <g id="Group_30609" data-name="Group 30609" transform="translate(35.552 601.47)">
+          <g id="Group_30608" data-name="Group 30608" transform="translate(24.935 18.737)">
+            <g id="Group_30607" data-name="Group 30607">
+              <g id="Group_30606" data-name="Group 30606">
+                <path id="Path_14217" data-name="Path 14217" d="M66.555,383.625V433.1c0,14.642,11.341,27.883,28.85,33.687l128.5,42.583a61.139,61.139,0,0,0,38.615-.25L384,466.977c17.114-5.937,28.112-19.018,28.112-33.438V383.625c0-15-15.837-27.159-35.373-27.159H101.928C82.392,356.466,66.555,368.625,66.555,383.625Z" transform="translate(-66.556 -452.746)" fill="url(#linear-gradient-2)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_30617-2" data-name="Group 30617" transform="translate(0 0)">
+          <g id="Group_30616-2" data-name="Group 30616" transform="translate(26.28 0)">
+            <g id="Group_30615-2" data-name="Group 30615">
+              <g id="Group_30614-2" data-name="Group 30614">
+                <path id="Path_14219-2" data-name="Path 14219" d="M435.169,532.732l-145.528,43.78a83.949,83.949,0,0,1-46.263.259L89.438,532.533c-20.977-6.027-34.562-19.783-34.562-34.995V-7.648c0-30.067,47.215-49.79,87.878-36.709L433.872,49.3c21.384,6.88,34.975,21.3,34.975,37.113V498C468.846,512.976,455.669,526.564,435.169,532.732Z" transform="translate(-54.876 48.469)" fill="#fff" stroke="#ff6315" stroke-width="2"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_30630" data-name="Group 30630" transform="translate(970.721 4040.709)">
+        <g id="Group_30609-2" data-name="Group 30609" transform="translate(35.551 601.47)">
+          <g id="Group_30608-2" data-name="Group 30608" transform="translate(24.935 18.737)">
+            <g id="Group_30607-2" data-name="Group 30607">
+              <g id="Group_30606-2" data-name="Group 30606">
+                <path id="Path_14217-2" data-name="Path 14217" d="M66.555,383.625V433.1c0,14.642,11.341,27.883,28.85,33.687l128.5,42.583a61.139,61.139,0,0,0,38.615-.25L384,466.977c17.114-5.937,28.112-19.018,28.112-33.438V383.625c0-15-15.837-27.159-35.373-27.159H101.928C82.392,356.466,66.555,368.625,66.555,383.625Z" transform="translate(-66.555 -452.746)" stroke="rgba(0,0,0,0)" stroke-width="1" fill="url(#linear-gradient-3)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_30617-3" data-name="Group 30617" transform="translate(0 0)">
+          <g id="Group_30616-3" data-name="Group 30616" transform="translate(26.28 0)">
+            <g id="Group_30615-3" data-name="Group 30615">
+              <g id="Group_30614-3" data-name="Group 30614">
+                <path id="Path_14219-3" data-name="Path 14219" d="M435.169,532.732l-145.528,43.78a83.949,83.949,0,0,1-46.263.259L89.438,532.533c-20.977-6.027-34.562-19.783-34.562-34.995V-7.648c0-30.067,47.215-49.79,87.878-36.709L433.872,49.3c21.384,6.88,34.975,21.3,34.975,37.113V498C468.846,512.976,455.669,526.564,435.169,532.732Z" transform="translate(-54.877 48.469)" fill="#fff" stroke="#b60745" stroke-width="2"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_30632" data-name="Group 30632" transform="translate(1436.998 4040.709)">
+        <g id="Group_30609-3" data-name="Group 30609" transform="translate(9.273 505.19)">
+          <image id="Rectangle_9294" data-name="Rectangle 9294" width="284.59" height="191" opacity="0.25" xlink:href="data:image/png;base64,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" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <g id="Group_30608-3" data-name="Group 30608" transform="translate(24.935 18.737)">
+            <g id="Group_30607-3" data-name="Group 30607">
+              <g id="Group_30606-3" data-name="Group 30606">
+                <path id="Path_14217-3" data-name="Path 14217" d="M66.555,383.625V433.1c0,14.642,11.341,27.883,28.85,33.687l128.5,42.583a61.139,61.139,0,0,0,38.615-.25L384,466.977c17.114-5.937,28.112-19.018,28.112-33.438V383.625c0-15-15.837-27.159-35.373-27.159H101.928C82.392,356.466,66.555,368.625,66.555,383.625Z" transform="translate(-66.555 -356.466)" fill="url(#linear-gradient-4)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_30617-4" data-name="Group 30617" transform="translate(0.001 0)">
+          <g id="Group_30616-4" data-name="Group 30616" transform="translate(0 0)">
+            <g id="Group_30615-4" data-name="Group 30615">
+              <g id="Group_30614-4" data-name="Group 30614">
+                <path id="Path_14219-4" data-name="Path 14219" d="M435.169,532.732l-145.528,43.78a83.949,83.949,0,0,1-46.263.259L89.438,532.533c-20.977-6.027-34.562-19.783-34.562-34.995V-7.648c0-30.067,47.215-49.79,87.878-36.709L433.872,49.3c21.384,6.88,34.975,21.3,34.975,37.113V498C468.846,512.976,455.669,526.564,435.169,532.732Z" transform="translate(-54.876 48.468)" fill="#fff" stroke="#09488e" stroke-width="2"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_30627" data-name="Group 30627" transform="translate(195 3963.498)">
+        <g id="Group_30622" data-name="Group 30622" transform="translate(0)">
+          <g id="Group_30621" data-name="Group 30621">
+            <g id="Group_30620" data-name="Group 30620">
+              <g id="Group_30619" data-name="Group 30619">
+                <circle id="Ellipse_66" data-name="Ellipse 66" cx="130.595" cy="130.595" r="130.595" fill="url(#linear-gradient-9)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_30626" data-name="Group 30626" transform="translate(29.417 29.005)">
+          <g id="Group_30625" data-name="Group 30625" transform="translate(0 0)">
+            <g id="Group_30624" data-name="Group 30624">
+              <g id="Group_30623" data-name="Group 30623">
+                <circle id="Ellipse_67" data-name="Ellipse 67" cx="101.384" cy="101.384" r="101.384" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_30629" data-name="Group 30629" transform="translate(633 3963.498)">
+        <g id="Group_30622-2" data-name="Group 30622" transform="translate(0)">
+          <g id="Group_30621-2" data-name="Group 30621">
+            <g id="Group_30620-2" data-name="Group 30620">
+              <g id="Group_30619-2" data-name="Group 30619">
+                <circle id="Ellipse_66-2" data-name="Ellipse 66" cx="130.595" cy="130.595" r="130.595" fill="url(#linear-gradient-2)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_30626-2" data-name="Group 30626" transform="translate(29.417 29.005)">
+          <g id="Group_30625-2" data-name="Group 30625" transform="translate(0 0)">
+            <g id="Group_30624-2" data-name="Group 30624">
+              <g id="Group_30623-2" data-name="Group 30623">
+                <circle id="Ellipse_67-2" data-name="Ellipse 67" cx="101.384" cy="101.384" r="101.384" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_30631" data-name="Group 30631" transform="translate(1073 3963.498)">
+        <g id="Group_30622-3" data-name="Group 30622" transform="translate(0)">
+          <g id="Group_30621-3" data-name="Group 30621">
+            <g id="Group_30620-3" data-name="Group 30620">
+              <g id="Group_30619-3" data-name="Group 30619">
+                <circle id="Ellipse_66-3" data-name="Ellipse 66" cx="130.595" cy="130.595" r="130.595" stroke="rgba(0,0,0,0)" stroke-width="1" fill="url(#linear-gradient-3)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_30626-3" data-name="Group 30626" transform="translate(29.417 29.005)">
+          <g id="Group_30625-3" data-name="Group 30625" transform="translate(0 0)">
+            <g id="Group_30624-3" data-name="Group 30624">
+              <g id="Group_30623-3" data-name="Group 30623">
+                <circle id="Ellipse_67-3" data-name="Ellipse 67" cx="101.384" cy="101.384" r="101.384" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_30633" data-name="Group 30633" transform="translate(1513 3963.498)">
+        <g id="Group_30622-4" data-name="Group 30622">
+          <g id="Group_30621-4" data-name="Group 30621">
+            <g id="Group_30620-4" data-name="Group 30620">
+              <g id="Group_30619-4" data-name="Group 30619">
+                <circle id="Ellipse_66-4" data-name="Ellipse 66" cx="130.595" cy="130.595" r="130.595" fill="url(#linear-gradient-4)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_30626-4" data-name="Group 30626" transform="translate(29.417 29.005)">
+          <g id="Group_30625-4" data-name="Group 30625" transform="translate(0 0)">
+            <g id="Group_30624-4" data-name="Group 30624">
+              <g id="Group_30623-4" data-name="Group 30623">
+                <circle id="Ellipse_67-4" data-name="Ellipse 67" cx="101.384" cy="101.384" r="101.384" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <text id="Incident_Management" data-name="Incident 
+Management" transform="translate(325 4081.531)" font-size="25" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-48.615" y="0">Incident </tspan><tspan x="-74.048" y="32">Management</tspan></text>
+      <text id="Problem_Management" data-name="Problem
+Management" transform="translate(763 4081.531)" font-size="25" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-47.4" y="0">Problem</tspan><tspan x="-74.048" y="32">Management</tspan></text>
+      <text id="Business_Continuity" data-name="Business
+Continuity" transform="translate(1204 4081.531)" font-size="25" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-51.324" y="0">Business</tspan><tspan x="-57.593" y="32">Continuity</tspan></text>
+      <text id="Environment_Management" data-name="Environment
+Management" transform="translate(1644 4081.531)" font-size="25" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-70.874" y="0">Environment</tspan><tspan x="-74.048" y="32">Management</tspan></text>
+      <text id="Define_Monitor_Alert_on_SLAs_and_KPIs_Automated_alerts_using_Synthetic_Monitoring_Automated_Incident_reporting" data-name="Define, Monitor, Alert on SLAs and KPIs
+
+Automated alerts using Synthetic Monitoring
+
+Automated Incident reporting" transform="translate(189 4279.17)" fill="#2a2a2a" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="0" y="25">Define, Monitor, Alert on </tspan><tspan x="0" y="57">SLAs and KPIs</tspan><tspan x="0" y="89"></tspan><tspan x="0" y="121">Automated alerts using </tspan><tspan x="0" y="153">Synthetic Monitoring</tspan><tspan x="0" y="185"></tspan><tspan x="0" y="217">Automated Incident </tspan><tspan x="0" y="249">reporting</tspan></text>
+      <text id="Digital_Eco-System_Live_Site_Automated_repairs_for_preventions_detection_Root_cause_analysis_and_feedback_loops" data-name="Digital Eco-System Live Site
+
+Automated repairs for preventions, detection
+
+Root cause analysis and feedback loops" transform="translate(644 4279.17)" fill="#2a2a2a" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="0" y="25">Digital Eco-System </tspan><tspan x="0" y="57">Live Site</tspan><tspan x="0" y="89"></tspan><tspan x="0" y="121">Automated repairs for </tspan><tspan x="0" y="153">preventions, detection</tspan><tspan x="0" y="185"></tspan><tspan x="0" y="217">Root cause analysis </tspan><tspan x="0" y="249">and feedback loops</tspan></text>
+      <text id="Chaos_Engineering_Test_Data_Management_DevOps_governance" data-name="Chaos Engineering
+
+Test Data Management
+
+DevOps governance" transform="translate(1093.684 4279.17)" fill="#2a2a2a" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="0" y="25">Chaos Engineering</tspan><tspan x="0" y="57"></tspan><tspan x="0" y="89">Test Data Management</tspan><tspan x="0" y="121"></tspan><tspan x="0" y="153">DevOps governance</tspan></text>
+      <text id="Automated_alert_notification_to_relevant_teams_Insights_for_overall_health_governance" data-name="Automated alert/notification to relevant teams
+
+Insights for overall health governance" transform="translate(1525 4279.17)" fill="#2a2a2a" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="0" y="25">Automated alert/</tspan><tspan x="0" y="57">notification to relevant </tspan><tspan x="0" y="89">teams</tspan><tspan x="0" y="121"></tspan><tspan x="0" y="153">Insights for overall health </tspan><tspan x="0" y="185">governance</tspan></text>
+      <g id="Group_30637" data-name="Group 30637" transform="translate(909 19.498)">
+        <circle id="Ellipse_71" data-name="Ellipse 71" cx="6" cy="6" r="6" transform="translate(577 4269)" fill="#bc0948"/>
+        <circle id="Ellipse_73" data-name="Ellipse 73" cx="6" cy="6" r="6" transform="translate(577 4399)" fill="#bc0948"/>
+      </g>
+      <g id="Group_30638" data-name="Group 30638" transform="translate(466 19.498)">
+        <circle id="Ellipse_71-2" data-name="Ellipse 71" cx="6" cy="6" r="6" transform="translate(577 4269)" fill="#bc0948"/>
+        <circle id="Ellipse_72" data-name="Ellipse 72" cx="6" cy="6" r="6" transform="translate(577 4334)" fill="#bc0948"/>
+        <circle id="Ellipse_73-2" data-name="Ellipse 73" cx="6" cy="6" r="6" transform="translate(577 4399)" fill="#bc0948"/>
+      </g>
+      <g id="Group_30639" data-name="Group 30639" transform="translate(24 19.498)">
+        <circle id="Ellipse_71-3" data-name="Ellipse 71" cx="6" cy="6" r="6" transform="translate(577 4269)" fill="#fe7e13"/>
+        <circle id="Ellipse_72-2" data-name="Ellipse 72" cx="6" cy="6" r="6" transform="translate(577 4366)" fill="#fe7e13"/>
+        <circle id="Ellipse_73-3" data-name="Ellipse 73" cx="6" cy="6" r="6" transform="translate(577 4463)" fill="#fe7e13"/>
+      </g>
+      <g id="Group_30640" data-name="Group 30640" transform="translate(24 19.498)">
+        <circle id="Ellipse_68" data-name="Ellipse 68" cx="6" cy="6" r="6" transform="translate(134 4269)" fill="#097189"/>
+        <circle id="Ellipse_69" data-name="Ellipse 69" cx="6" cy="6" r="6" transform="translate(134 4366)" fill="#097189"/>
+        <circle id="Ellipse_70" data-name="Ellipse 70" cx="6" cy="6" r="6" transform="translate(134 4463)" fill="#097189"/>
+      </g>
+    </g>
+  </g>
+</svg>

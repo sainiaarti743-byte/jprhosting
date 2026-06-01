@@ -2,7 +2,7 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import TrustedPartner from '../../page/TrustedPartner';
 import CustomerStories from '../../page/CustomerStories';
-import { Helmet } from 'react-helmet-async';
+
 import SEO from '../SEO';
 
 const SecurityServices = () => {

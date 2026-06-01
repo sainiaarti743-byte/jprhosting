@@ -10,7 +10,7 @@ import CustomerStories from "./CustomerStories";
 import GartnerInsights from "./GartnerInsights";
 import Testimonials from "./Testimonials";
 import HeroSlider from "../components/HeroSlider";
-import { Helmet } from "react-helmet";
+
 import SEO from "../components/SEO";
 
 const Home = () => {
