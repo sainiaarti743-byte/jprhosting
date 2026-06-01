@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/jprhosti/public_html/
-    - /bin/cp -R * $DEPLOYPATH
+    - export DEPLOYPATH=/home2/jprhosti/public_html/
+    - /bin/cp -R build/* $DEPLOYPATH
